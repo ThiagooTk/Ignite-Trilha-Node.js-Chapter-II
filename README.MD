@@ -1,0 +1,1 @@
+## Template de config inicial de um app NodeJS em typescript com Eslint e prettier
